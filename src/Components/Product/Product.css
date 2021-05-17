@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-div{
+    display: flex;
+}
+.side-bar{
+    width: 250px;
+    height: 500px;
+    
+}
+.side-bar a{
+    text-decoration: none;
+    color:black;
+    
+    
+}
+.side-bar li{
+    list-style: none;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid lightgrey;
+    
+}
+li :hover{
+    color: #afb0b2;
+}
+.product-part{
+    width: 60%;
+    border-right: 1px solid lightgray;
+    
+}

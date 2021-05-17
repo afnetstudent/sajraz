@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.div-container {
+    border: 2px solid lightgrey;
+    width: 100%;
+    padding: 10px;    
+}
+.div-container nav a{
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    margin: 5px;
+    
+}
+nav a:hover{
+color: blue;
+}
+.search-box{
+    width: 300px;
+    padding: 10px;
+    
+}
+.btn{
+    padding: 10px;
+    background-color: #f5c540;
+    color: white;
+    color: black;
+}
+
+
